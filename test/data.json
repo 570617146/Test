@@ -1,0 +1,111 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "subassembly": [
+    {
+      "id": 1,
+      "name": "eTest组件",
+      "classify": "前端组件",
+      "versions": "1.0.0",
+      "development": "JavaScript",
+      "time": "2018-05-18",
+      "state": 1
+    },
+    {
+      "id": 2,
+      "name": "test01",
+      "classify": "测试子组件",
+      "versions": "2.3.4",
+      "development": "Java",
+      "time": "2018-05-11",
+      "state": 0
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "classify": "分布式布局",
+      "versions": "1.0.1",
+      "development": "Node.js",
+      "time": "2018-04-26",
+      "state": 0
+    },
+    {
+      "id": 4,
+      "name": "通信服务",
+      "classify": "应用服务",
+      "versions": "2.1.4",
+      "development": "Java",
+      "time": "2018-04-19",
+      "state": 1
+    },
+    {
+      "id": 5,
+      "name": "应用配置中心",
+      "classify": "应用服务",
+      "versions": "2.1.5",
+      "development": "Java",
+      "time": "2018-04-20",
+      "state": 1
+    },
+    {
+      "id": 6,
+      "name": "元数据",
+      "classify": "数据存储",
+      "versions": "2.1.4",
+      "development": "Java",
+      "time": "2018-04-12",
+      "state": 1
+    },
+    {
+      "id": 7,
+      "name": "数据库操作",
+      "classify": "数据存储",
+      "versions": "2.1.4",
+      "development": "Java",
+      "time": "2018-04-12",
+      "state": 1
+    },
+    {
+      "id": 8,
+      "name": "对象存储OSS",
+      "classify": "数据存储",
+      "versions": "2.1.4",
+      "development": "Java",
+      "time": "2018-04-12",
+      "state": 1
+    },
+    {
+      "id": 9,
+      "name": "分布式锁",
+      "classify": "分布式工具",
+      "versions": "2.1.4",
+      "development": "Java",
+      "time": "2018-04-12",
+      "state": 1
+    },
+    {
+      "id": 10,
+      "name": "分布式数据",
+      "classify": "分布式工具",
+      "versions": "2.1.4",
+      "development": "Java",
+      "time": "2018-04-12",
+      "state": 1
+    }
+  ]
+}
